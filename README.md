@@ -1,6 +1,6 @@
 ## **readme.md**
 
-### **Portfólio Fotográfico do Filipe: Uma Busca Rápida e Intuitiva** 
+### **Portfólio Fotográfico do Filipe: Uma Busca Rápida e Intuitiva - Imersão Dev com Google Gemini** 
 
 **O que é esse projeto?**
 
